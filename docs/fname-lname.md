@@ -4,3 +4,4 @@ fname lname
      - [ ] coffee
      - [ ] python programming
      - [ ] purple
+**Current City:** Denver
